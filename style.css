@@ -293,3 +293,27 @@ footer a {
 #pdf{
   background-color: peachpuff;
 }
+
+
+/* Center-align the header content */
+.header-content {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the download button */
+.download-button {
+    padding: 10px 20px;
+    background-color: #007bff; /* Change this to your desired button color */
+    color: #fff; /* Text color */
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Hover effect */
+.download-button:hover {
+    background-color: #0056b3; /* Change this to a darker shade for hover effect */
+}
+
